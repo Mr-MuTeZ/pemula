@@ -10,4 +10,4 @@ $ git clone https://github.com/Mr.MuTe-Z/pemula
 
 $ cd pemula
 
-$ python2 mutez.py
+$ python2 pemulaa.py
